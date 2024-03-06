@@ -43,9 +43,9 @@ Welcome to the JavaScript Hello World Programs repository! Below, you'll find th
    - In JavaScript, objects can inherit properties and methods from a prototype.
    - Every JavaScript object has a prototype property, which points to the prototype object from which it inherits properties.
 
-### 9. Object Serialization:
-   - Serialization is the process of converting an object into a format that can be stored or transmitted.
-   - JSON (JavaScript Object Notation) is a popular format for serializing JavaScript objects.
+### 9. Object Serialisation:
+   - Serialisation is the process of converting an object into a format that can be stored or transmitted.
+   - JSON (JavaScript Object Notation) is a popular format for serialising JavaScript objects.
 
 ### 10. Object Destructuring:
     - Object destructuring allows you to extract properties from an object and assign them to variables in a single line of code.
@@ -60,13 +60,13 @@ Welcome to the JavaScript Hello World Programs repository! Below, you'll find th
 
 ### Program 1: Hello World with Input using Classes
 
-This program utilizes a class structure to handle user input and display a personalized greeting.
+This program utilises a class structure to handle user input and display a personalised greeting.
 
 [Link to Program 1](#)
 
 ### Program 2: Hello World with Input using Regular Expression
 
-This program validates user input using regular expressions and displays a personalized greeting.
+This program validates user input using regular expressions and displays a personalised greeting.
 
 [Link to Program 2](#)
 
@@ -80,24 +80,12 @@ This program handles user input and greeting display using an algorithmic approa
 
 To run any of the programs, simply open the respective file in your preferred JavaScript environment (e.g., a browser console, Node.js, etc.) and follow the instructions provided.
 
-## Accessibility and Visual Appeal
-
-Accessibility and visual appeal are important considerations for this repository. Here's how we ensure these aspects:
-
-- **Accessible Code**: All code examples are written with clarity and readability in mind, making them accessible to users of all backgrounds and abilities.
-  
-- **Descriptive Comments**: Each code snippet is accompanied by descriptive comments, explaining the purpose and functionality of the code.
-
-- **Clear Documentation**: The README provides clear and concise instructions for running the programs, making it easy for users to understand and utilize the code.
-
-- **Responsive Design**: The README is designed to be responsive and display correctly on various devices and screen sizes.
-
-- **Attractive Formatting**: The README is formatted using Markdown syntax to enhance readability and visual appeal.
-
 ## Contributing
 
-Contributions are welcome! If you have any ideas for improvement or new features, feel free to submit a pull request.
+If you have any ideas for improvement or new features, feel free to submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/amcmdv/OOP/assets/104701319/91371cba-0521-43e8-92e9-e191d86e46ed)
+
