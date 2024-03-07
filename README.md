@@ -60,21 +60,41 @@ Welcome to the JavaScript Hello World Programs repository! Below, you'll find th
 
 ### Program 1: Hello World with Input using Classes
 
-This program utilises a class structure to handle user input and display a personalised greeting.
+Hello World
 
 [[Link to Program 1](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%201%3A%20Basic%20Hello%20World%20with%20Input/helloWorld.js)](#)
+
+This program utilises a class structure to handle user input and display a personalised greeting.
+
+[[Link to Program 2](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%207%3A%20Hello%20World%20with%20Input%20using%20Classes%20(Classes)/helloWorld.js)](#)
+
+
 
 ### Program 2: Hello World with Input using Regular Expression
 
 This program validates user input using regular expressions and displays a personalised greeting.
 
-[Link to Program 2](#)
+[[Link to Program 1](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%202%3A%20Hello%20World%20with%20Input%20using%20Regular%20Expression/helloWorld.js)](#)
+
+Variations of the above; Hello World with Input using Regular Expression (If Statements)
+
+[[Link to Program 2](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%205%3A%20Hello%20World%20with%20Input%20using%20Regular%20Expression%20(If%20Statements)/helloWorld.js)](#)
+
+[[Link to Program 3](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%208%3A%20Hello%20World%20with%20Input%20using%20Regular%20Expression/helloWorld.js)](#)
+
+
 
 ### Program 3: Hello World with Input using Algorithm
 
 This program handles user input and greeting display using an algorithmic approach.
 
-[Link to Program 3](#)
+[[Link to Program 1](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%203%3A%20Hello%20World%20with%20Input%20using%20Algorithm/helloWorld.js)](#)
+
+[[Link to Program 2](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%206%3A%20Hello%20World%20with%20Input%20using%20Algorithm%20(Functions)/helloWorld.js)](#)
+
+This program users a basic algorithm to handle user input and greeting.
+
+[[Link to Program 3](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%209%3A%20Hello%20World%20with%20Input%20using%20Algorithm/helloWorld.js)](#)
 
 ## Usage
 
