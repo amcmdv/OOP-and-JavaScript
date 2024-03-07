@@ -87,5 +87,5 @@ If you have any ideas for improvement or new features, feel free to submit a pul
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-![image](https://github.com/amcmdv/OOP/assets/104701319/91371cba-0521-43e8-92e9-e191d86e46ed)
+
 
