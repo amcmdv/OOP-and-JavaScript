@@ -1,5 +1,5 @@
 !function () {
-// Using an algorithm to capitalize the first letter of the input
+// Using an algorithm to capitalise the first letter of the input
 function capitaliseFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
