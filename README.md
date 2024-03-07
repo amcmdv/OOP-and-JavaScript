@@ -4,6 +4,39 @@
 
 Welcome to the JavaScript Hello World Programs repository! Below, you'll find three simple JavaScript programs that greet the user based on their input. Each program demonstrates a different approach to user input handling and greeting display.
 
+# Quick JavaScript Refresher
+
+This serves as a quick refresher on essential JavaScript concepts Let's dive in:
+
+## Object-Oriented Programming (OOP)
+
+Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which encapsulate data and behavior. OOP allows for the creation of reusable code and provides a way to structure and organise complex systems.
+
+## Local & Global Variables
+
+Local variables are declared within a function and can only be accessed within that function scope. Global variables, on the other hand, are declared outside of any function and can be accessed anywhere within the script. It's important to manage variable scope to avoid conflicts and maintain code clarity.
+
+## The Various Loops
+
+Loops are essential for repetitive tasks in programming. JavaScript offers various loop constructs:
+- `for` loop: Executes a block of code a specified number of times.
+- `while` loop: Executes a block of code as long as a specified condition is true.
+- `do...while` loop: Executes a block of code once, and then repeats the loop as long as a specified condition is true.
+- `for...in` loop: Iterates over the properties of an object.
+- `for...of` loop: Iterates over iterable objects such as arrays.
+
+## If Statements
+
+If statements are used for decision-making in code. They evaluate a condition and execute a block of code if the condition is true. If statements can include `else` and `else if` clauses to handle alternate conditions, making them versatile tools for controlling program flow.
+
+## Functions
+
+Functions are reusable blocks of code that perform specific tasks. They accept inputs, process data, and return results. Functions play a crucial role in organising code and promoting code reusability. JavaScript functions can be declared using the `function` keyword and can accept parameters.
+
+## Classes
+
+Classes are blueprints for creating objects with predefined properties and methods. They facilitate the creation of objects with consistent structure and behavior, promoting code modularity and maintainability. JavaScript classes are introduced in ES6 and provide a way to define object-oriented structures in a more intuitive manner.
+
 ## Initial Guide to JavaScript Objects
 
 ### 1. Introduction to Objects:
