@@ -62,7 +62,7 @@ Welcome to the JavaScript Hello World Programs repository! Below, you'll find th
 
 This program utilises a class structure to handle user input and display a personalised greeting.
 
-[Link to Program 1](#https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%201%3A%20Basic%20Hello%20World%20with%20Input/)
+[[Link to Program 1](https://github.com/amcmdv/OOP-and-JavaScript/blob/main/Hello%20World/Program%201%3A%20Basic%20Hello%20World%20with%20Input/helloWorld.js)](#)
 
 ### Program 2: Hello World with Input using Regular Expression
 
